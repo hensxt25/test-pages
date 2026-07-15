@@ -1,1 +1,1 @@
-usernaem bugcrowd : hensxt
+username bugcrowd: hensxt
